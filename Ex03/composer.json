@@ -1,0 +1,15 @@
+{
+    "name": "j/ex03",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jhuan-Medeiros",
+            "email": "jhuan.mcordeiro@gmail.com"
+        }
+    ],
+    "require": {}
+}
